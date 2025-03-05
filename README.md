@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abusha-ansari&show_icons=true&locale=en" alt="abusha-ansari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusha-ansari&" alt="abusha-ansari" /></p>
