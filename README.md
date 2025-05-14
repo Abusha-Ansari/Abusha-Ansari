@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [CourseLy](https://coursely.abusha.tech/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **ReactJS,NextJS,Express**
 
