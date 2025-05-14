@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abusha Ansari</h1>
-<h3 align="center">A passionate Full Stack developer and Software Engineer from India</h3>
+<h3 align="center">A passionate Full Stack developer and Aspiring Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="abusha-ansari" /> </p>
 
@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CourseLy](https://course-ly.vercel.app/)
+- 👨‍💻 View My portfolio [Abusha Ansari](https://abusha.tech)
 
-- 🌱 I’m currently learning **GoLang**
+- 🔭 I’m currently working on [CourseLy](https://coursely.abusha.tech/)
+
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **ReactJS,NextJS,Express**
 
-- 📫 How to reach me **msaif8747@gmail.com**
+- 📫 How to reach me **abusha.ansari21@gmail.com**
 
 - ⚡ Fun fact **I think i dont know anything**
 
