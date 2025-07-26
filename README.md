@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abusha-ansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abusha ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/abusha_2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abusha_2103" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abusha_ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abusha_ansari" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/abusha_ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abusha_ansari" height="30" width="40" /></a> -->
 <a href="https://discord.gg/abusha_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abusha_21" height="30" width="40" /></a>
 </p>
 
