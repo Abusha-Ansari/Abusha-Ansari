@@ -9,7 +9,7 @@
 
 - 👨‍💻 View My portfolio [Abusha Ansari](https://abusha.tech)
 
-- 🔭 I’m currently working on [CourseLy](https://coursely.abusha.tech/)
+- 🔭 I’m currently working on [Mail Assist](https://mailassist.abusha.tech/)
 
 - 🌱 I’m currently learning **Backend Development**
 
